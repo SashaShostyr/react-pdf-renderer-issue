@@ -9,11 +9,7 @@
     "start:prod": "serve -s build/public"
   },
   "dependencies": {
-    "@react-pdf/font": "2.2.1",
-    "@react-pdf/layout": "3.1.2",
-    "@react-pdf/pdfkit": "2.4.0",
-    "@react-pdf/render": "3.2.0",
-    "@react-pdf/renderer": "2.3.0",
+    "@react-pdf/renderer": "3.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
